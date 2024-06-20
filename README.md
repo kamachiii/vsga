@@ -8,8 +8,8 @@ A simple web calculator is an online tool that allows users to perform basic mat
 - Calculate the division result of two numbers
 
 ## Tech 💻
-- PHP] - A server-side programming language used to build web applications, including simple calculators.
-- XAMPP - An open source software package that allows you to run a local web server on your computer, which is very useful for developing web applications such as calculators.
+- [PHP] - A server-side programming language used to build web applications, including simple calculators.
+- [XAMPP] - An open source software package that allows you to run a local web server on your computer, which is very useful for developing web applications such as calculators.
 - [Chrome] - A popular web browser that can be used to access and use a web-based simple calculator built with PHP.n of two numbers
 
 And of course Kalkulator Sederhana itself is open source with a [public repository](https://github.com/kamachiii/vsga)
