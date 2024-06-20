@@ -15,6 +15,14 @@ A simple web calculator is an online tool that allows users to perform basic mat
 And of course Kalkulator Sederhana itself is open source with a [public repository](https://github.com/kamachiii/vsga)
  on GitHub.
 
+ ## Directory tree
+ ```bash
+ ├───day1
+│   └───latihan
+└───day2
+    └───latihan
+ ```
+
 ## Installation
 
 Kalkulator Sederhana requires [PHP](https://php.net/) and [XAMPP](https://apachefriends.org) to run.
