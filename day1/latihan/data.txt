@@ -1,0 +1,3 @@
+Name: Muhammad Kamil- Class: PPLG XII-1,
+Name: Kasir- Class: PPLG XII-1,
+Name: inventory- Class: PPLG XII-1,
